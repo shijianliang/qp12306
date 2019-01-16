@@ -80,8 +80,8 @@ auto_code_type: 2
 
 # 打码平台账号
 auto_code_account:
-  user: "15738051776"
-  pwd: "s111.com"
+  user: ""
+  pwd: ""
 
 #  邮箱配置，如果抢票成功，将通过邮件配置通知给您
 #  列举163
